@@ -12,3 +12,11 @@ Once you've downloaded the wordlist file:
 ```
 ruby randomwalk.rb <wordlist>
 ```
+
+Or:
+
+```
+ruby -run -e httpd . -p 8000
+```
+
+and visit localhost:8000 in your browser!
